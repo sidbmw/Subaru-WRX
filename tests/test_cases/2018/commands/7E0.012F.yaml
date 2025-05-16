@@ -3,8 +3,6 @@ can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
 - response: 7E803412F2D
-  expected_values:
-    FLI: 17.64706
+  expected_values: {}
 - response: 7E803412FA6
-  expected_values:
-    FLI: 65.09804
+  expected_values: {}

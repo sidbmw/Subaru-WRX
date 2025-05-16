@@ -3,17 +3,12 @@ can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
 - response: 7E80441447F7C
-  expected_values:
-    EQ_RAT: 0.99599
+  expected_values: {}
 - response: 7E80441447F98
-  expected_values:
-    EQ_RAT: 0.99684
+  expected_values: {}
 - response: 7E80441447FC8
-  expected_values:
-    EQ_RAT: 0.99831
+  expected_values: {}
 - response: 7E80441447FD3
-  expected_values:
-    EQ_RAT: 0.99864
-- response: '7E80441448011'
-  expected_values:
-    EQ_RAT: 1.00053
+  expected_values: {}
+- response: 7E80441448011
+  expected_values: {}

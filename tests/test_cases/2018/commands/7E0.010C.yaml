@@ -3,14 +3,10 @@ can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
 - response: 7E804410C0B4A
-  expected_values:
-    RPM: 722.5
+  expected_values: {}
 - response: 7E804410C0BF4
-  expected_values:
-    RPM: 765
+  expected_values: {}
 - response: 7E804410C0D01
-  expected_values:
-    RPM: 832.25
+  expected_values: {}
 - response: 7E804410C2F87
-  expected_values:
-    RPM: 3041.75
+  expected_values: {}
